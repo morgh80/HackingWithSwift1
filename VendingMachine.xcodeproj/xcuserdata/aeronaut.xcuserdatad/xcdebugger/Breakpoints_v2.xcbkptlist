@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VendingMachine/ViewController.swift"
+            timestampString = "506706309.738498"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "purchase()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VendingMachine.ViewController.purchase () -&gt; ()"
+                  moduleName = "VendingMachine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aeronaut/Documents/xcode/Treehouse/Apps/VendingMachine-StarterFiles/VendingMachine/ViewController.swift"
+                  timestampString = "506706310.382133"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "1048">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VendingMachine.ViewController.purchase () -&gt; ()"
+                  moduleName = "VendingMachine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aeronaut/Documents/xcode/Treehouse/Apps/VendingMachine-StarterFiles/VendingMachine/ViewController.swift"
+                  timestampString = "506706310.386274"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "1498">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
